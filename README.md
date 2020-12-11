@@ -15,7 +15,9 @@ A book list for me
 - [ ] A primer of Behavioral Psychology, ***by Adelaide Bry***
 - [ ] I'm OK--You're OK, ***by Thomas A. Harris M.D.***
 - [ ] Freedom to Be and Man the Manipulator, ***by Everett L. Shostrum***
-- [ ] Love and Orgasm, Pleasure and Language of the Body, ***by Alexander Lowen, M.D.***
+- [ ] Love and Orgasm, ***by Alexander Lowen, M.D.***
+- [ ] Pleasure, ***by Alexander Lowen, M.D.***
+- [ ] Language of the Body, ***by Alexander Lowen, M.D.***
 - [ ] The Transparent Self, ***by Sidney M. Jourard***
 - [ ] Don't say Yes When You Want to Say No, ***by Herbert Fensterheim and Jean Baer***
 - [ ] Gestalt Therapy VerBatim, ***by Frederick S. Perls***
